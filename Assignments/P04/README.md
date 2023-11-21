@@ -4,5 +4,4 @@
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
 |  1 | [main.go](https://github.com/huyngo878/4143-PLC-HuyNgo/tree/main/Assignments/P01)    |  Main Driver |
-| 2 | [P02](https://github.com/huyngo878/4143-PLC-HuyNgo/tree/main/Assignments/P02) | Program 2 |
 
